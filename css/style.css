@@ -1,0 +1,11 @@
+.bg{
+	min-height: 80px;
+	background-color: teal;
+}
+.intro{
+	margin-bottom: 50px;
+	background-color: Yellow;
+}
+.img{
+	width:100%;
+}
